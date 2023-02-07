@@ -1,4 +1,4 @@
-<h1><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width=32/> Hi, I'm Lucas</h1>
+<h1>👋 Hi, I'm Lucas</h1>
 
 ### Toolbox
 
