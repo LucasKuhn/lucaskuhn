@@ -1,6 +1,3 @@
-<h1>👋 Hi </h1>
-
-
 <!--
 <a href="http://www.github.com/lucaskuhn"><img src="https://github-readme-stats.vercel.app/api?username=lucaskuhn&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="lucaskuhn's GitHub stats" /></a>
 
